@@ -1,0 +1,42 @@
+---
+title: Andrew Robinson. Earth-Shattering Events - Earthquakes, Nations, and Civilizations. London and New York - Thames & Hudson, 2016
+description: Reviewed by Ernest B. Hook This disappointing work provides a superficial, disorganized, repetitive, incomplete, frustrating, and even a somewhat perverse review of effects of earthquakes on human history. With regard to perversity, the author claims, “we might even argue that earthquakes, for all their horrors, can en...
+knowledge-bank:
+  - 02-comparative-civilization
+tags:
+  - comparative-civilization
+  - civilization
+  - religion
+  - india
+  - art-and-culture
+  - economy
+  - war-and-conflict
+  - history
+  - philosophy
+  - politics
+  - archaeology-and-antiquity
+  - decline-and-crisis
+  - death-and-afterlife
+sources:
+  - v80
+timestamp: 2019-04-01
+source: Comparative Civilizations Review
+---
+
+Reviewed by Ernest B. Hook
+This disappointing work provides a superficial, disorganized, repetitive, incomplete, frustrating, and even a somewhat perverse review of effects of earthquakes on human history. With regard to perversity, the author claims, “we might even argue that earthquakes, for all their horrors, can enhance economic growth in the long term” and be “blessings in disguise.”
+He cites Gandhi, Kant, and John Stuart Mill in apparent support. Gandhi invoked the great earthquake in India and Tibet in 1934 as a warning to Hindus about their views on untouchability. He saw, unsympathetically, a moral utility in great natural catastrophes and, apparently, associated deaths of the innocents as much as the guilty, as warnings to the credulous. Kant only went so far as to suggest we should consider whether earthquakes “might bring us good things.” Mill went further to predict, unequivocally, Robinson implies, long term economic benefits from disasters, including presumably earthquakes, because they encouraged manufacturers to introduce more efficient processes!
+Even widely followed philosophies have made similar arguments about the unexpected advantages of disease, famine, wars, and death. In Christian eschatology the horrors unleashed upon humanity by the advent of the Four Horseman of the Apocalypse will precede the Last Judgment, the presumed end of human civilization and reintroduction of an existence in paradise.
+Some commentators have cited the utter devastation after World War Two in the Federal Republic of Germany and in the Empire of Japan as an explanation for the major economic expansion in these countries after the war; they argue that the utter destruction removed social-political barriers to growth and enabled the extraordinary economic emergence of these countries after their destruction. But this ignores the benign policies of the occupying victors, who allowed, indeed facilitated such growth and then withdrew, as well as the cultural heritage in both Germany and Japan that included a strong “work ethic.”
+Robinson concludes that “earthquake-prone cities, including many capitals, generally recover from seismic catastrophes and frequently prosper. I emphasize his qualifications, because he does not cite any exceptions. He does refer to Antigua, the beautiful former capital of Guatemala ruined and rebuilt four times in less than 300 years after 1586.
+He doesn’t tell us that its seismicity led to the country’s capital being removed to Guatemala City, leaving Antigua to slumber in lessened prosperity as a consequence.
+With regard to societies and civilizations, Robinson is less certain about lingering effects. He cites two opposed views: that of Will Durant, who stated, “Civilization exists by geological consent, subject to change without notice” and that of Jared Diamond, who in his “Collapse: How societies choose to fail or succeed”, totally ignores earthquakes and volcanoes. (Diamond might claim in this volume he addressed human choices. In other books he does emphasize geography.)
+Robinson reasonably claims that human agency and geographical factors are both important. Humans can do things to diminish the hazards of earthquakes. Thus in 2010 the magnitude 7.1 earthquake near Christchurch New Zealand caused no fatalities; whereas the one of magnitude 7.0 near Port-au-Prince Haiti caused 85,000 to 316,000. Reinforced construction in New Zealand accounts for the difference.
+But the important point from our viewpoint is to what extent, and how, societies and civilizations can survive earthquakes. Haiti did survive, albeit with difficulty and with international assistance, despite the devastation.
+Robinson suggests the apparently simultaneous collapse of Bronze Age societies in Crete and elsewhere in the Eastern Mediterranean around 1200 BCE in many different sites may have been due to, or at least triggered by, an earthquake of as yet unknown epicenter. He does not mention anywhere a frequently-cited alternative explanation: one of the most powerful volcanic explosions of all time, on the island of Thera (now Santorini), is often postulated as the cause of the collapse of the Minoan Civilization. Granted an earthquake of unknown epicenter could have triggered the explosion. But plausibly, the consequences of the catastrophe (and associated tsunami if it was an earthquake) so weakened the Minoans that they could not resist the destruction of subsequent raiders or invaders of whom we know little.
+Robinson can do no more than speculate about civilizations, but he discusses in some detail the effects of natural disasters on cities and nations. He reviews in detail earthquakes in London 1750, Lisbon 1755, Caracas 1812, Naples 1857, San Francisco 1906, Tokyo and Yokohama, 1923, Tangshan (China) 1976, Gujarat (India) 2001, the Indian Ocean Tsunami 2004, and Fukushima (Japan) 2011. The historical details in these chapters are of interest and the best part of the volume.
+Unfortunately, in his introductory chapter he makes implausible claims about some events discussed in detail in later chapters where no evidence in support of the earlier claims appear. For instance, by a series of sequential extrapolations, Robinson suggests the Japanese earthquake of 1923 led to World War II and that the San Francisco earthquake of 1906 triggered the formation of the U.S. Federal Reserve in 1913.
+Moreover, he states that after 1906, the subsequent economic growth in San Francisco resulted from the earthquake, the city “went on to flourish”, and even “gave birth” to Silicon Valley to the south of it in the 1950s! This is simply a fallacy. Silicon Valley resulted from its location close to Stanford University, not San Francisco. Robinson states that the Tangshan earthquake in China in 1976, about one month before Mao’s death, led Deng Xiaoping to transform his country into an economic power, because of the failure of the central government to address the aftermath of the earthquake, another fallacy.
+I will not elaborate further on the specific problems with the book except by providing more suggestions for what I hope will be an improved 2nd edition:
+A single chapter, with a glossary, of the technical details and definitions, e.g. “faults”, “plates” “zones”, briefly explaining the science of earthquakes, the different types of faults, the various causes of earthquakes, how the various measures of earthquakes compare, and the advantages of each. Elaborate on the details of such matters as P waves and S waves, subduction zones, etc. Where they appear these details are scattered about, and not well defined so are simply jargon.
+Regarding the list of earthquakes: add to the date and location such basic information the numbers known or estimated killed, and magnitudes of each even if only estimated, noting which scale is used. (Strangely, although the author informs us in the text he is not using the well-known Richter scale, I cannot find a single remark about what scale he does use when giving the magnitude of an earthquake, or how, for instance, the magnitude for a particular earthquake he provides differs from that of the Richter or other scales.) Instead of a two-page simple sketch map of seismic zones in the world, provide expanded and labeled maps of known seismic faults. Iceland for instance is in grey implying it is all an active zone. It may be, but no one looking at this map would realize a fault goes right through the country. So discuss Iceland, among other areas where one can see the effects of two major tectonic plates drifting apart above sea level.

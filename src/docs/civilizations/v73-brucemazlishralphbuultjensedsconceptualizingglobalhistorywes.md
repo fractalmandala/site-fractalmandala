@@ -1,0 +1,79 @@
+---
+title: Bruce Mazlish & Ralph Buultjens, eds., Conceptualizing Global History Westview, 1993 New Global History Pr, January 2004
+description: Reviewed by Vitaliy Sholokhov This collection of works on globalization is worthwhile to revisit, or to ponder for the first time, if you are unfamiliar with it. Its essays reveal that the philosophical problems of globalization have been for twenty years a focus of the international scientific community, since global...
+knowledge-bank:
+  - 02-comparative-civilization
+tags:
+  - comparative-civilization
+  - art-and-culture
+  - economy
+  - law-and-rights
+  - history
+  - philosophy
+  - politics
+  - society
+  - environment
+  - globalization
+sources:
+  - v73
+timestamp: 2015-10-01
+source: Comparative Civilizations Review
+---
+
+Reviewed by Vitaliy Sholokhov
+This collection of works on globalization is worthwhile to revisit, or to ponder for the first time, if you are unfamiliar with it. Its essays reveal that the philosophical problems of globalization have been for twenty years a focus of the international scientific community, since global history is the only source for justifying the correctness of any scientific sociological theories. But global history requires a conceptualization, a formulation of its general ideas and concepts.
+The contents of the book are as follows: An Introduction to Global History, Bruce Mazlish Part One: The Theory of Global History
+- 1 The Rounding of the Earth: Ecology and Global History, Neva R. Goodwin
+- 2 Global History: Historiographical Feasibility and Environmental Reality, Wolf Schafer
+- 3 Global History and the Third World, Ralph Buultjens
+- 4 From Universal History to Global History, Manfred Kossok
+- 5 Global History in а Postmodernist Era? Bruce Mazlish Part Two: Applied Global History
+- 6 Migration and Its Enemies, Wang Gungwu
+- 7 А Globalizing Economy: Some Implications and Consequences, Richard J. Barnet and John Cavanagh
+- 8 Human Rights as Global Imperative, Louis Menand III
+- 9 The Globalization of Music: Expanding Spheres of Influence, John Joyce Part Three: An Overview
+- 10 Оn the Prospect of Global History, Raymond Grew
+Let us consider briefly the contents of the collection. In the introduction to the collection editor Bruce Mazlish describes the time since 1993 as "the era of globalization.” But he also writes that, as sociologists and historians know, there is nothing absolutely new. Well before 1993, scientists had identified industrial processes as global and gave them the definition of "industrial revolution." Travel around the globe had created a vision of the world as a "whole." Time zones for the globe were established in the nineteenth century. Already at that time it was possible to identify the early signs of a global era. However, new factors like international migration, ideas of universal human rights, the expansion of the transnational corporations, and environmental problems created by the scientific and technological revolution, have increased the intensity of the processes of globalization.
+Raymond Grew and Neva R. Goodwin consider questions of method. Should Global History be mainly descriptive or analytical? Answer: it is necessary to describe the experience of globalization, and the structures and processes must be obtained by analysis. If the states are no longer the object of historical study, who are now the principal actors of global history? Answer: international movements and transnational corporations.
+Wolf Schafer considers the historiographical possibility and reality of the “environment.” Ralph Buultjens, Manfred Kossok and Bruce Mazlish considered theoretical issues in connecting Global History with Third World History, Universal History and Postmodern History. All of these sections of history are intertwined with Global History. National histories will continue, and the boundaries of histories are difficult to establish, and will affect the development of the structures and processes of global history.
+In the section on Applied Global History, Wang Gungwu addresses international migration; Richard J. Barnet and John Cavanagh examine issues of economic globalization; Louis Menand III explores human rights, and John Joyce considers the globalization of culture.
+But the main problems are, so to say, philosophical. In Russia and in Britain, N.Y. Danilevsky and Arnold Joseph Toynbee had already created their own concepts of the philosophy of history. Bruce Mazlish writes that in the United States, Marshall McLuhan felt intuitively what happens when he wrote, misleadingly, about the "global village."
+New problem-areas for global history have emerged: the growth of cities in a globalizing society; science as a universal force; religion in the same perspective; gender issues; problems of communication and media; problems of globalism and localism.
+The book under review prefigured extensive research that has since been carried out worldwide on the problems of globalization. For example, in 2003, Raduga Publishers, Moscow, produced a Global Studies Encyclopedia, edited by Alexander N. Chumakov, Ivan I. Mazour and William C. Gay. This book provides brief expositions of the central concepts in the field of Global Studies. Former President of the Soviet Union Mikhail Gorbachev says, “The book is intelligent, rich in content and, I believe, necessary in our complex, turbulent, and fragile world.” Three hundred authors from 50 countries contributed 450 entries.
+The contributors include scholars, researchers, and professionals in social, natural, and technological sciences. They cover globalization problems within ecology, business, economics, politics, culture, and law. This interdisciplinary collection provides a basis for understanding the concepts and methods within global studies and for accessing lengthier and more technical research in the field. The articles treat such important topics as biosphere, ozone depletion, land resources, pollution, world health challenges, education, global modeling, sustainable development, war, weapons of mass destruction, and terrorism. The book also promotes academic cooperation, political dialogue, and mutual understanding
+## across diverse traditions and national identities that are needed to engage successfully the many daunting challenges of globalization.
+June 29-July 2, 2016 Monmouth University, West Long Branch, New Jersey, USA “The West” and its Discontents: Contemporary Challenges to Western Dominance
+Since 1500, the West has moved from the edge of Eurasia, from insignificance to dominate the world politically, culturally, and economically. Since the end of World War II, its values have established the de facto “global system” of trade, economics, and preferred governance. The last challenges to these particularly Anglo-Saxon values survived bitterlyfought wars against Fascist Nazi Germany and Fascist Japan in World War II and prolonged surrogate wars against the Soviet Union ending in the collapse of their empire in 1991. The Western Global System seemed to be without challenge.
+But now challenges come from all sides.
+-  Islam, a religion whose dominance had begun a decline in 1250, is having a renewal of militant zeal. To what degree is the West at war with Islam, contrary to the repeated assurances of our leaders? How can this be thought of as a “clash of civilizations”? Can the revival of the model of the ancient Caliphate: a single religious dictatorship, replace the western Global System?
+-  Environmental Crisis . Pope Francis has issued an Encyclical urging his believers and the world to heed the danger of global warming. He warns that rampant industrialization has created luxury for the rich nations but undue suffering in the way of pollution and misery for the poor. To what degree has capitalism, with its ethos of materialism, contributed to the environmental crisis? Can technologies address the adverse effects of environmental damage? Can a global system of mandatory environmentalism replace capitalism without increasing global poverty?
+-  The Crisis of Capitalism. Is capitalism really working? For whom? The gulf between rich and poor seems to be growing ever wider. Is the “American Dream” even relevant anymore? How are the cost-saving mechanisms of outsourcing and technological innovation contributing to the unemployment crisis in the US? Yet many of the world’s poor have been lifted out of poverty by science, technology, and democracy in this past century. Capitalism has worked in ways that no other ideologies have managed to do. Or was much of that prosperity built on “borrowed” money and deferred payments? Perhaps the Great Recession” of 2008 has made it painfully clear that it is now time to pay the overdue bill.
+-  China and Russia: Challenges to the Western System. China is a newly awakened ancient culture that has its own amalgam of the old and the new. To some degree China rejects the hegemony of the Western Global System, though it also appears to have lately appropriated elements of it to its own benefit. Russia also indicates unwillingness to accept Western hegemony. What institutions do they offer that provide better societal solutions?
+-  Multiculturalism. Many European countries have attempted the model of multiculturalism, admitting large numbers of immigrants and abolishing internal borders in an attempt to create a united Europe. Has this model succeeded? Can it really succeed when immigrants are not willing or able to integrate into their host country’s culture? Is this model now under fire? Also interesting to consider are the challenges to Western culture in the realm of art and music. As globalization progresses in the cultural realm we are seeing unprecedented cultural exchange in these areas. While non-Western music and art do not represent challenges per se to the West, they are an important part of the encounter of the West with the other. Of particular interest will be modes of cultural appropriation and synthesis.
+-  The Energy Revolution. As the United States becomes energy independent and an energy exporter, how does that affect the Global System? Do we still need the Middle East? Israel has become a water exporter in the Middle East, the only country with technologies dealing with water. How does this affect the relationships in that region and the Global System?
+-  Decadence and Moral Decay: The Challenge from Within. Why are so many people in the US more interested in the latest cell-phone app, online video game, or “reality TV” distraction, than they are about the urgent issues facing civilization today? Was Spengler right about the "Decline of the West," not only in terms of the political or economic spheres, but in a spiritual sense as well? What are the implications of this for civilizational study?
+The world is changing at a rapid pace. How are we to understand these challenges to Western hegemony? What are the positives and what are the negatives?
+Papers are invited on the above topics, and any other topics of civilizational relevance. Please send abstracts by April 15 to Program Chair, Dr. Laina Farhat-Holzman
+Lfarhat102@aol.com
+## Books by Matthew Melko
+## The International Society for the Comparative Study of Civilizations
+In October 1961, in Salzburg, Austria, an extraordinary group of scholars gathered to create the International Society for the Comparative Study of Civilizations. Among the 26 founding members from Austria, Germany, France, Switzerland, The Netherlands, Spain, Italy, England, Russia, the United States, China and Japan were such luminaries as Pitirim Sorokin and Arnold Toynbee.
+For six days, the participants debated such topics as the definition of “civilization,” problems in the analysis of complex cultures, civilizational encounters in the past, the Orient versus the Occident, problems of universal history, theories of historiography, and the role of the “human sciences” in “globalization.” The meeting was funded by the Austrian government, in cooperation with UNESCO, and received considerable press coverage. Sorokin was elected the Society’s first president.
+After several meetings in Europe, the advancing age of its founding members and the declining health of then president, Othmar F. Anderle, were important factors in the decision to transfer the Society to the United States.
+Between 1968 and 1970 Roger Williams Wescott of Drew University facilitated that transition. In 1971, the first annual meeting of the ISCSC (US) was held in Philadelphia. Important participants in that meeting and in the Society’s activities during the next years included Benjamin Nelson (the Society’s first American president), Roger Wescott, Vytautas Kavolis, Matthew Melko, David Wilkinson, Rushton Coulborn and C.P. Wolf. In 1974, the Salzburg branch was formally dissolved, and from that year to the present there has been only one International Society for the Comparative Study of Civilizations (ISCSC).
+The presidents of the ISCSC are, in order: In Europe, Pitirim Sorokin and Othmar Anderle; in the United States, Benjamin Nelson, Vytautas Kavolis, Matthew Melko, Michael Palencia-Roth, Roger Wescott, Shuntaro Ito (from Japan), Wayne Bledsoe, Lee Daniel Snyder, Andrew Targowski, and the current president David Rosner. To date, the Society has held 45 meetings, most of them in the United States but also in Salzburg, Austria; Santo Domingo, The Dominican Republic; Dublin, Ireland; Chiba, Japan; Frenchman’s Cove, Jamaica; St. Petersburg, Russia; Paris, France; New Brunswick, Canada; and Rio de Janeiro, Brazil.
+More than 30 countries are represented in the Society’s membership. Its intellectual dynamism and vibrancy over the years have been maintained and enhanced through its annual meetings, its publications, and the participation of such scholars as Talcott Parsons, Hayden White, Immanuel Wallerstein, Gordon Hewes, André Gunder Frank, Marshall Sahlins, Lynn White Jr., and Jeremy Sabloff.
+The Society is committed to the idea that complex civilizational problems can best be approached through multidisciplinary analyses and debate by scholars from a variety of fields. The Comparative Civilizations Review, which welcomes submissions from the Society’s members as well as other scholars, has been published continually since its inaugural issue in 1979
+Prof. Michael Palencia-Roth
+## Membership Information
+If you are not a member of the ISCSC please consider joining. For a $60 yearly membership fee members receive a one-year subscription to this journal, are invited to attend the annual conference, receive the ISCSC newsletter, and may participate in ongoing dialogues. Membership is open to all interested in civilizations. Visit www.wmich.edu/ISCSC for further information.
+## To Obtain Issues of This Journal
+Soft cover issues of this journal may be purchased from Amazon.com, bn.com, or from other Internet booksellers. CD and other electronic copies of this issue may be obtained from the H.W.Wilson website at www.hwwilson.com or the ProQuest website at www.proquest.com. Coming soon to EBSCO Electronic Journals Service.
+## Online Access
+This issue, and previous issues, may be accessed, searched by keyword or topic, and read by pasting the following URL into your browser: https://ojs.lib.byu.edu/spc/index.php/CCR
+We thank the Brigham Young University for providing this service worldwide to all who are interested in the topics our journal covers.
+We will be switching to a new electronic platform via Brigham Young University for the next issue.
+## Upcoming 2016 ISCSC Conference
+The 46th Annual Meeting of the International Society for the Comparative Study of Civilizations will take place at Monmouth University in Monmouth, New Jersey, U.S.A.
+Look for conference information soon on the ISCSC website:
+www.wmich.edu/ISCSC

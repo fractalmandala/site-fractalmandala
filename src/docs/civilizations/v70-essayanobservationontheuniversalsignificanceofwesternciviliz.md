@@ -1,0 +1,49 @@
+---
+title: Essay - An Observation on the Universal Significance of Western Civilization
+description: Lfarhat102@aol.com During the youth and women’s revolutions of the mid-1980s, we heard attacks on Western Civilization, particularly about the traditional educational focus on the great figures of Western history. It became chic to call all of our progenitors, the likes of Shakespeare, Socrates, and our Founding Father...
+knowledge-bank:
+  - 02-comparative-civilization
+tags:
+  - comparative-civilization
+  - civilization
+  - western-civilization
+  - art-and-culture
+  - education
+  - history
+  - politics
+  - society
+  - archaeology-and-antiquity
+  - cities-and-urbanism
+sources:
+  - v70
+timestamp: 2014-04-01
+source: Comparative Civilizations Review
+---
+
+## Laina Farhat-Holzman
+Lfarhat102@aol.com
+During the youth and women’s revolutions of the mid-1980s, we heard attacks on Western Civilization, particularly about the traditional educational focus on the great figures of Western history. It became chic to call all of our progenitors, the likes of Shakespeare, Socrates, and our Founding Fathers, “Dead White Men.” Academic institutions and the popular media hastened to get on board, deeming Western Civilization overblown in importance (at a minimum) and deserving of obliteration (at best).
+The new feminist movement trotted out its injured pride, based on women having been ignored in history and abused for centuries (all of this true). Then the various denizens of identity politics weighed in with the outrage that their particular ethnicities were not given a proper place in the textbooks or in society itself. This also had some truth in it.
+However, this was a case of tossing out the baby with the bathwater. The “dead white men” who created the wonders of the modern world’s Western Civilization gave us values that benefit those very women and minorities in a way rarely found in any other civilization.
+What appears to be unique in Western Civilization is the recognition of the individual, not just the king. We have this heritage from ancient Greece and even before that, from the earliest Indo-Europeans, the ancestors of most Europeans and Persians. It is also a heritage from one ancient tribe, the Hebrews, ancestors of the world’s Jews, and continued into the development of Christianity. Even in today’s world, the idea that individuals matter, that they can be judged as virtuous or bad, that they can play a serious role in their own governance, is still revolutionary. In the cries around our world today for “freedom,” the idea of freedom does not include responsibility nor does it include women and children, who are too often seen as property, not individuals.
+The dead white men of Ancient Greece gave us the first glimmer of democracy and the birth of philosophy (a system outside the bonds of religion). They gave us the individual (the very concept missing in most of the rest of the world’s social orders). The Roman dead white men gave us a model of written law, secular law separate from religious law, still the basis of how we regard justice. The dead white men of the medieval Catholic Church gave us contract law and the distinction between religious and secular rule.
+They also gave us academic independence, a right not enjoyed by much of the developing world today. Priests and popes did not rule kingdoms. In the 13th century in England, our dead white ancestors took on a tyrannical king, King John, and forced him into recognizing power-sharing in a document called the Magna Carta.
+Dead white men gave birth to the Scientific Revolution that, from the moment the telescope was invented, rushed to refine, invent, and explore all other aspects of our world. When the telescope was given as gifts to the other great civilizations of the 17th century (Ottomans, Moghul Indians, and China), none of those empires found science worth pursuing.
+Dead white men came together to create and fight for a United States of America, that, for all its faults, has mechanisms for self-correction, a division of powers among administrators, legislators, and judges, and a process forever enlarging the participation of its citizens. We are still a work in progress.
+Dead white men addressed the horrors of black slavery, something that still exists in Islamic Civilization, particularly across North Africa, which has a much longer history of slavery than Europe. This slavery began with Egypt and flourished in the Muslim world even at a time when early Christianity had abandoned the practice. The dead white men came to it later, and slavery never quite sat well with them.
+Dead white men abolished slavery; first, English Quakers; next a Tsar in Russia; and finally under Abraham Lincoln’s leadership during a civil war that nearly split the United States permanently.
+Dead white men gave in to the clamor of Women’s Suffrage in 1920, and from then on shared power and participation with women. In many parts of the world, this is still inconceivable, and contrasts starkly with practices that horrify us in the West.
+An examination of current Afghan culture is illustrative of what the polar opposite of Western Civilization can be. According to the San Francisco Chronicle, Sunday, May 19, 2013: “Afghanistan: Religious lawmakers block women’s rights legislation.” Conservative religious lawmakers in Afghanistan blocked legislation aimed at strengthening provisions for women’s freedoms, arguing that parts of it violated Islamic principles and encouraged disobedience.
+This fierce opposition highlights how tenuous women’s rights remain, even a dozen years after the ouster of the hardline Taliban regime, whose strict interpretations of Islam once kept Afghan women virtual prisoners in their homes.
+Khalil Ahmad Shaheedzada, a conservative lawmaker for Herat province, said the legislation bolstering women’s freedoms was withdrawn shortly after being introduced in parliament because of an uproar by religious parties who said parts of it are unIslamic. “Whatever is against Islamic law, we don’t even need to speak about it,” Shaheedzada said.
+Afghanistan’s Law of Elimination of Violence Against Women has been in effect since 2009, but only by presidential decree and never enforced. It is being brought before parliament now because lawmaker Fawzia Kofi, a women’s rights activist, wants to cement it with a parliamentary vote to prevent its potential reversal by any future president who might be tempted to repeal it to satisfy hardline religious parties.
+The law criminalizes, among other things, child marriage and forced marriage, and bans baad, the traditional practice of exchanging girls and women to settle disputes. It makes domestic violence a crime punishable by up to three years in prison and specifies that rape victims should not face criminal charges for fornication or adultery.
+The child marriage ban and the idea of protecting female rape victims from prosecution were particularly heated subjects, said Nasirullah Sadiqizada Neli, a conservative lawmaker from Daykundi province. Neli suggested that removing the custom--common in Afghanistan---of prosecuting raped women for adultery would lead to social chaos, with women freely engaging in extramarital sex safe in the knowledge that they could claim rape if caught.
+As a woman, now with the power to fully participate in my governance and with the ability to study and participate in every human enterprise, I feel my debt to the dead white men who produced Western Civilization. This is no small gift for me----nor is it of negligible importance to the rest of our world’s civilizations. There is not one of the world’s civilizations not influenced enormously by the civilization that our ancestors created.
+The great advances in science and medicine are major contributions of Western Civilization, advances that have doubled our lifespan in just one century. The invention of contraception, for example, has lengthened the life of myriads of women who, without it, would have been destined for early death, as they are in many places in the world, because of unremitting childbirth. Giving women some control over their biology has enabled them to be as productive and free as the great men who produced our civilization.
+The new findings in astronomy, for example, have sent us out on the next voyages of discovery, a capability that will cause much rethinking of our ancient religions. The concept of the divine will be infinitely enlarged by these discoveries.
+The rapid advance of brain science will finally determine what differences there are between male and female brains---and will throw into a cocked hat our notions of human responsibility, crime, and punishment. Our justice systems will never be the same.
+Western Civilization has elements unique to it that are not intrinsic to any other of the great civilizations: the sanctity of the human being in the concept of human rights, sanctity of private property, attempts at universal education, attempts at a justice system that works at fairness, and enormous and continuous creativity in arts and industries.
+If there is any doubt about the universality of Western Civilization, we need only watch the celebrations of the New Year, our New Year, around the globe. We need only note that the time zones and latitude demarcations used globally are Western in origin. The global language of international air travel is English. Imagine the chaos if it were up to everyone and anyone to select their own language.
+Although there are still some holdovers from the dead end of the hippy social revolution who defame the dead white men, they have not yet produced themselves anything worthy of defending. The movement to dethrone Western Civilization has not succeeded in making its case. The proof is that the world votes with its feet; those who can flee to the West do so.
+I salute the “dead white men” who gave us all of this.

@@ -1,0 +1,59 @@
+// =============================================================================
+// 11_OWN — bespoke project-specific styles and micro-components.
+// =============================================================================
+
+@use 'fractals' as *
+
+.logomotif
+	height: 28px
+	width: 28px
+	flex: 0 0 auto
+	object-fit: contain
+
+.logotype
+	height: 16px
+	width: auto
+	max-width: 180px
+	object-fit: contain
+
+.site-brand
+	+row(2xs, center)
+	flex: 0 0 auto
+	text-decoration: none
+
+	.logotype-dark
+		display: none
+
+html[data-mode='dark'] .site-brand
+	.logotype-light
+		display: none
+
+	.logotype-dark
+		display: block
+
+.header-actions
+	+row(2xs, center)
+	margin-left: auto
+
+.docs-menu-button
+	display: inline-grid
+	place-items: center
+	width: 32px
+	height: 32px
+	padding: 4px
+	border: 0
+	border-radius: 4px
+	background: transparent
+	color: var(--text-secondary)
+	cursor: pointer
+
+	&:hover, &:focus-visible
+		background: var(--state-hover-subtle)
+		color: var(--theme-color)
+
+.header-nav
+	font-size: var(--text-sm)
+	text-decoration: none
+	color: var(--text-secondary)
+	&:hover
+		color: var(--theme-color)

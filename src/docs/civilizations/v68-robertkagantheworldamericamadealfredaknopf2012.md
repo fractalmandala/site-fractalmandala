@@ -1,0 +1,40 @@
+---
+title: Robert Kagan, The World America Made. Alfred A. Knopf, 2012.
+description: Robert Kagan is a recognized conservative historian, conservative because he has served as an advisor to several Republican administrations. What is interesting today is that his latest book, The World America Made, happens to be a favorite of President Obama. This book certainly makes a case supporting the idea of Ame...
+knowledge-bank:
+  - 02-comparative-civilization
+tags:
+  - comparative-civilization
+  - western-civilization
+  - the-americas
+  - art-and-culture
+  - war-and-conflict
+  - history
+  - philosophy
+  - politics
+  - decline-and-crisis
+  - world-systems
+sources:
+  - v68
+timestamp: 2013-04-01
+source: Comparative Civilizations Review
+---
+
+Robert Kagan is a recognized conservative historian, conservative because he has served as an advisor to several Republican administrations. What is interesting today is that his latest book, The World America Made, happens to be a favorite of President Obama. This book certainly makes a case supporting the idea of American Exceptionalism, a view more common among conservatives than liberals today, but this view may be enjoying a general renaissance.
+Kagan’s Dangerous Nation, 2006, tracked American foreign policy from the country’s very beginnings. It contradicts the often held belief that the basic nature of America is isolationist and inward-looking. Kagan shows that we were promoting democracy from the start, a promotion that made us appear as a menace to the old order in Europe even before our revolution succeeded. Our only truly isolationist time was during the decades leading up to the Civil War, because the South wanted to expand into the Caribbean to extend slavery, but the North saw this as detrimental to the future of America. Once the issue of slavery was resolved, America again launched into an ambitious foreign policy and increasingly influenced world events.
+Kagan’s present work poses an important question: if the US declines in power from its position as the hegemonic leader of a multipolar world, will the global order survive? He makes a devastating case that what we consider the global order today is neither inevitable nor would continue without us.
+Kagan notes: “We take a lot for granted about the way the world looks today--the widespread freedom, the unprecedented global prosperity (even despite the current economic crisis), and the absence of war among great powers. In 1941 there were only a dozen democracies in the world. Today there are over a hundred. For four centuries prior to 1950, global gross domestic product (GDP) rose by less than 1 percent a year. Since 1950, it has risen by an average of 4 percent a year, and billions of people have been lifted out of poverty.” Would any of this have happened without us?
+Many analysts think that the current global order is the inevitable consequence of human evolution. But, says Kagan, “Perhaps the progress we enjoy today was not an inevitable evolution of the human species but rather the product of a unique and perhaps fleeting set of circumstances…Perhaps democracy has spread to over a hundred nations since 1950 not simply because people yearn for democracy but because the most powerful nation in the world since 1950 has been a democracy. Perhaps the stunning global economic growth of the past six decades reflects an economic order shaped by the world’s leading free-market economy. Perhaps the era
+of peace we have known has something to do with the enormous power wielded by one nation.”
+Being a historian, he looks throughout history for comparable models. When Rome, which had maintained an extraordinarily successful world order in its time, fell to barbarian invasions and in one case, North Africa, total reversal of culture, not only did the Roman world order collapse for centuries, but people even lost the recipe for making cement! Without Rome, order was no longer.
+In the 20th century, we saw the rise of other candidates for world order: the Communists and the Nazis. Had either prevailed, could we imagine a world order that would resemble the one we have today?
+The elements that shape the United States are unique in the world in a number of ways: our unique geographical circumstances (not surrounded by enemies); a democratic form of government that has been functioning for several centuries; and enormous military power. Together these things “have shaped a particular kind of international order that would have looked very different had another nation with different characteristics wielded a similar amount of influence.” Imagine if it had been China, for example, these elements would not have been present.
+Another anomaly of the American character is that despite our belligerence (demonstrated many times since our beginnings), Americans are not eager to colonize, unlike the European powers in the 19th century. We go to war, but we generally bear no grudge afterwards (note Germany and Japan), and we do not really want to nationbuild. We do nation-building not well at all, unlike the British Empire, which tried to do that. The American public can hardly wait for us to leave Iraq and Afghanistan, for example. Because of our obvious reluctance to rule the world, other nations more or less trust us, and expect us to be a good hegemon.
+The rest of the book (actually a long essay) describes in detail the world America made, with an analysis of just how it happened. America has demonstrated over and over again how it believes that when other countries do well, we will do well too. This is not a universal practice when others are the hegemons. The amazing Marshall Plan after World War II had destroyed Europe (and its pretensions to power) enabled Europe to not only recover, but also to thrive. Our former enemies, Germany and Japan, became our allies, much to the benefit of the now increasing global order. Could that have happened without us? It does not seem likely. Nor could a European Union have emerged without specific American encouragement and help.
+The danger for us is to think that the current world order is inevitable and permanent. The early 20th century looked permanent under the hegemony of the British Empire and the obviously increasing prosperity and technological advancements of the
+time. The world had been more or less at peace for decades, and war was unthinkable. Unfortunately, that illusion was shattered by the horrific World War I, followed by the even more horrific World War II, and the brooding threat of a nuclear conflict between the West and the USSR for the next nearly half century. Without US intervention, none of these wars would have ended as they did—with a much more ordered and hopeful world.
+Today’s world order might indeed evaporate if the US loses its position as the exceptional hegemon. Kagan does not think that we are about to lose this position, but much depends upon our understanding who we are and what role we play. It would be a great folly for us to abdicate our military role in keeping the world stable. Ask any Asian countries how they feel (especially today) about the US Navy patrolling Pacific waters. They want us there, and they know perfectly well why they do. We play the role there of the cop on the beat.
+“What has made the United States most attractive to much of the world has not been its culture, its wisdom, or even its ideals alone. At time these have played a part; at times they have been irrelevant. More consistent has been the attraction of America’s power, the manner in which it uses it, and the ends for which it has been used.”
+If we decide to drop that role, if the US looks like a less reliable defender of the world order, that order will begin to unravel. “People might find Americans in this weaker state very attractive indeed, but if the United States cannot help them when and where they need help the most, they will have to make other arrangements.”
+This would not be a good thing; just consider the alternate players in today’s world and make your choice.
+Laina Farhat-Holzman
