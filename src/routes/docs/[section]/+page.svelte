@@ -4,11 +4,6 @@
 	let { data } = $props();
 </script>
 
-<svelte:head>
-	<title>{data.section.title} · Fractal Maṇḍala Docs</title>
-	<meta name="description" content={data.section.description} />
-</svelte:head>
-
 <section class="docs-landing">
 	<header class="docs-landing-header">
 		<p class="eyebrow">Collection / {data.section.posts.length} posts</p>

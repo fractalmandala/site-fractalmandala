@@ -2,13 +2,11 @@ import type { PageLoad } from './$types';
 import { DEFAULT_DESCRIPTION, SITE_NAME, type SeoData } from '$lib/seo';
 
 export const load: PageLoad = () => ({
-	kind: 'hub',
 	seo: {
-		title: `Documentation · ${SITE_NAME}`,
+		title: SITE_NAME,
 		description: DEFAULT_DESCRIPTION,
-		path: '/docs/',
+		path: '/',
 		type: 'website',
-		schema: 'CollectionPage',
-		breadcrumbs: [{ name: 'Home', path: '/' }]
+		schema: 'WebSite'
 	} satisfies SeoData
 });

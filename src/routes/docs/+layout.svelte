@@ -2,6 +2,7 @@
 	import { resolve } from '$app/paths';
 	import { page } from '$app/state';
 	import { closeDocsDrawer, docsDrawer } from '$lib/docs-drawer.svelte';
+	import DocsSearch from '$lib/components/DocsSearch.svelte';
 	import type { DocData } from '$lib/docs';
 
 	let { data, children } = $props();
@@ -18,13 +19,6 @@
 		openSection = openSection === section ? null : section;
 	};
 </script>
-
-<svelte:head>
-	<meta
-		name="description"
-		content={currentDoc?.description || 'A living library of essays, research, and notes.'}
-	/>
-</svelte:head>
 
 <svelte:window onkeydown={(event) => event.key === 'Escape' && closeDocsDrawer()} />
 
@@ -85,6 +79,7 @@
 	></button>
 
 	<main class="docs-main">
+		<DocsSearch />
 		{#if isArticle && currentDoc}
 			<details class="docs-mobile-toc">
 				<summary>On this page <span aria-hidden="true">⌄</span></summary>

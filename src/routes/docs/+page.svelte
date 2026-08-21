@@ -4,10 +4,6 @@
 	let { data } = $props();
 </script>
 
-<svelte:head>
-	<title>Docs · Fractal Maṇḍala</title>
-</svelte:head>
-
 <section class="docs-landing">
 	<header class="docs-landing-header">
 		<p class="eyebrow">Fractal Maṇḍala / Library</p>

@@ -4,7 +4,9 @@
 	import favicon from '$lib/assets/favicon.svg';
 	import CloseIcon from '$lib/icons/close.svelte';
 	import MenuIcon from '$lib/icons/menu.svelte';
+	import Seo from '$lib/components/Seo.svelte';
 	import { docsDrawer, toggleDocsDrawer } from '$lib/docs-drawer.svelte';
+	import { DEFAULT_SEO, type SeoData } from '$lib/seo';
 	import '$lib/styles/index.sass';
 	import 'fractalthemer/styles.css';
 	import { AuraBackground, ThemePicker, themeState } from 'fractalthemer';
@@ -13,18 +15,21 @@
 	let isDocsArticle = $derived(
 		page.url.pathname.startsWith('/docs/') && (page.data as { kind?: string }).kind === 'article'
 	);
+	let seo = $derived((page.data as { seo?: SeoData }).seo || DEFAULT_SEO);
 </script>
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
 </svelte:head>
 
+<Seo {...seo} />
+
 <AuraBackground />
 
 <div class="app-shell">
 	<header class="app-header">
 		<a
-			class="site-brand"
+			class="site-brand row gap-2xs"
 			href={resolve('/')}
 			data-theme-mode={themeState.isDark ? 'dark' : 'light'}
 		>

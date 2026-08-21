@@ -1,4 +1,5 @@
 import { mdsvex } from 'mdsvex';
+import { sveltekitOG } from '@ethercorps/sveltekit-og/plugin';
 import adapter from '@sveltejs/adapter-vercel';
 import { sveltekit } from '@sveltejs/kit/vite';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
@@ -24,6 +25,7 @@ export default defineConfig({
 			},
 			adapter: adapter(),
 			extensions: ['.svelte', '.svx', '.md']
-		})
+		}),
+		sveltekitOG()
 	]
 });

@@ -4,8 +4,10 @@
 	"version": "0.0.1",
 	"type": "module",
 	"scripts": {
+		"predev": "pnpm run build:pagefind",
 		"dev": "vite dev",
-		"build": "vite build",
+		"build:pagefind": "node scripts/build-pagefind.mjs",
+		"build": "pnpm run build:pagefind && vite build",
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync || echo ''",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
@@ -25,6 +27,7 @@
 		"fractalstyler2": "^0.3.0",
 		"globals": "^17.6.0",
 		"mdsvex": "^0.12.7",
+		"pagefind": "^1.5.2",
 		"prettier": "^3.8.3",
 		"prettier-plugin-svelte": "^4.1.0",
 		"sass": "^1.103.0",
@@ -35,6 +38,8 @@
 		"vite": "^8.0.16"
 	},
 	"dependencies": {
-		"fractalthemer": "^0.2.0"
+		"@ethercorps/sveltekit-og": "^4.3.0",
+		"fractalthemer": "^0.2.0",
+		"takumi-js": "^2.10.0"
 	}
 }

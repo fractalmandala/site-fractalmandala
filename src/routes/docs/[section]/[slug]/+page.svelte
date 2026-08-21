@@ -6,11 +6,6 @@
 	let Content = $derived(getDocumentComponent(data.doc.path));
 </script>
 
-<svelte:head>
-	<title>{data.doc.title} · Fractal Maṇḍala Docs</title>
-	<meta name="description" content={data.doc.description || data.doc.summary} />
-</svelte:head>
-
 <article class="docs-article">
 	<header class="docs-article-header">
 		<a class="docs-breadcrumb" href={resolve(`/docs/${data.doc.section}`)}

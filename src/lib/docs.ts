@@ -14,6 +14,7 @@ export type DocSummary = {
 	description: string;
 	tags: string[];
 	summary: string;
+	date?: string;
 };
 
 export type DocData = DocSummary & {
@@ -173,7 +174,8 @@ const summaryFor = (filePath: string): DocSummary | null => {
 		title,
 		description,
 		tags: tagsValue(metadata.tags),
-		summary: summaryFromSource(source, description)
+		summary: summaryFromSource(source, description),
+		date: stringValue(metadata.date) || undefined
 	};
 };
 
