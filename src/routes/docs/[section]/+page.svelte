@@ -4,7 +4,7 @@
 	let { data } = $props();
 </script>
 
-<section class="docs-landing">
+<section class="docs-landing docs-landing-container">
 	<header class="docs-landing-header">
 		<p class="eyebrow">Collection / {data.section.posts.length} posts</p>
 		<h1>{data.section.title}</h1>

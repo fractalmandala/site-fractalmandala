@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { resolve } from '$app/paths';
-	import { getDocumentComponent } from '$lib/docs';
+	import { getDocumentComponent, tagSlug } from '$lib/docs';
 
 	let { data } = $props();
 	let Content = $derived(getDocumentComponent(data.doc.path));
@@ -18,7 +18,7 @@
 		{#if data.doc.tags.length}
 			<div class="docs-tags" aria-label="Tags">
 				{#each data.doc.tags as tag (tag)}
-					<span class="badge" data-doc-tag>{tag}</span>
+					<a class="badge" data-doc-tag href={resolve(`/docs/tags/${tagSlug(tag)}`)}>{tag}</a>
 				{/each}
 			</div>
 		{/if}

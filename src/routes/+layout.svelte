@@ -4,6 +4,7 @@
 	import favicon from '$lib/assets/favicon.svg';
 	import CloseIcon from '$lib/icons/close.svelte';
 	import MenuIcon from '$lib/icons/menu.svelte';
+	import DocsSearch from '$lib/components/DocsSearch.svelte';
 	import Seo from '$lib/components/Seo.svelte';
 	import { docsDrawer, toggleDocsDrawer } from '$lib/docs-drawer.svelte';
 	import { DEFAULT_SEO, type SeoData } from '$lib/seo';
@@ -37,6 +38,8 @@
 			<img class="logotype logotype-light" src="/images/logotype-black.png" alt="Fractal Mandala" />
 			<img class="logotype logotype-dark" src="/images/logotype-white.png" alt="Fractal Mandala" />
 		</a>
+
+		<DocsSearch />
 
 		<div class="header-actions">
 			{#if isDocsArticle}

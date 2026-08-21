@@ -2,7 +2,6 @@
 	import { resolve } from '$app/paths';
 	import { page } from '$app/state';
 	import { closeDocsDrawer, docsDrawer } from '$lib/docs-drawer.svelte';
-	import DocsSearch from '$lib/components/DocsSearch.svelte';
 	import type { DocData } from '$lib/docs';
 
 	let { data, children } = $props();
@@ -28,11 +27,6 @@
 	data-drawer-open={isArticle && docsDrawer.open}
 >
 	<nav id="docs-navigation" class="docs-nav" aria-label="Documentation navigation">
-		<div class="docs-nav-header">
-			<a class="docs-nav-home" href={resolve('/docs')} onclick={closeDocsDrawer}>Docs</a>
-			<span class="docs-nav-count">{data.sections.length} collections</span>
-		</div>
-
 		<div class="navtree">
 			{#each data.sections as section (section.slug)}
 				<section class="navtree-group" data-open={openSection === section.slug}>
@@ -43,7 +37,6 @@
 						onclick={() => toggleSection(section.slug)}
 					>
 						<span>{section.title}</span>
-						<span class="docs-nav-chevron" aria-hidden="true">⌄</span>
 					</button>
 
 					{#if openSection === section.slug}
@@ -79,7 +72,6 @@
 	></button>
 
 	<main class="docs-main">
-		<DocsSearch />
 		{#if isArticle && currentDoc}
 			<details class="docs-mobile-toc">
 				<summary>On this page <span aria-hidden="true">⌄</span></summary>

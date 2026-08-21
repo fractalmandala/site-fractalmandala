@@ -77,7 +77,6 @@
 		z-index: var(--z-modal, 200)
 		width: min(85vw, 280px)
 		height: calc(100dvh - var(--header-height, 48px))
-		padding: var(--space-s)
 		overflow-y: auto
 		background: var(--bg)
 		+border(right)
@@ -125,7 +124,6 @@
 			height: calc(100vh - var(--header-height, 48px))
 			transform: none
 			z-index: 10
-			padding: var(--space-m) var(--space-s)
 
 		> .docs-toc
 			display: block
@@ -142,7 +140,7 @@
 // NavTree styling
 .navtree
 	+box
-	+gap(m)
+	+gap(sm)
 
 .navtree-group
 	+box

@@ -1,5 +1,5 @@
 import type { RequestHandler } from './$types';
-import { docsSections } from '$lib/docs';
+import { docsSections, docsTags } from '$lib/docs';
 
 const xmlEscape = (value: string) =>
 	value.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -8,6 +8,8 @@ export const GET: RequestHandler = ({ url }) => {
 	const pages = [
 		'/',
 		'/docs/',
+		'/docs/tags/',
+		...docsTags.map((tag) => `/docs/tags/${tag.slug}/`),
 		...docsSections.flatMap((section) => [
 			`/docs/${section.slug}/`,
 			...section.posts.map((post) => `/docs/${section.slug}/${post.slug}/`)

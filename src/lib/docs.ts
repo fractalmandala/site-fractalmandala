@@ -29,6 +29,13 @@ export type DocsSection = {
 	posts: DocSummary[];
 };
 
+export type DocTag = {
+	slug: string;
+	label: string;
+	count: number;
+	posts: DocSummary[];
+};
+
 type MarkdownModule = {
 	default: Component;
 	metadata?: Record<string, unknown>;
@@ -64,6 +71,17 @@ const tagsValue = (value: unknown) => {
 		.filter(Boolean);
 };
 
+export const tagSlug = (value: string) =>
+	value
+		.trim()
+		.toLowerCase()
+		.normalize('NFKD')
+		.replace(/[\u0300-\u036f]/g, '')
+		.replace(/[^\w\s-]/g, '')
+		.trim()
+		.replace(/\s+/g, '-')
+		.replace(/-+/g, '-') || 'tag';
+
 const frontmatterValue = (value: string) => value.trim().replace(/^['"]|['"]$/g, '');
 
 const metadataFromSource = (source: string) => {
@@ -76,7 +94,9 @@ const metadataFromSource = (source: string) => {
 	for (const line of frontmatter.split('\n')) {
 		const listItem = line.match(/^\s+-\s+(.*)$/);
 		if (listItem && activeList) {
-			const current = Array.isArray(metadata[activeList]) ? (metadata[activeList] as unknown[]) : [];
+			const current = Array.isArray(metadata[activeList])
+				? (metadata[activeList] as unknown[])
+				: [];
 			metadata[activeList] = [...current, frontmatterValue(listItem[1])];
 			continue;
 		}
@@ -209,11 +229,42 @@ export const docsSections: DocsSection[] = sectionSlugs
 	})
 	.sort((a, b) => a.title.localeCompare(b.title));
 
+const tagEntries = new Map<string, { label: string; posts: DocSummary[] }>();
+
+for (const section of docsSections) {
+	for (const post of section.posts) {
+		const seen = new Set<string>();
+		for (const label of post.tags) {
+			const slug = tagSlug(label);
+			if (seen.has(slug)) continue;
+			seen.add(slug);
+
+			const entry = tagEntries.get(slug);
+			if (entry) {
+				entry.posts.push(post);
+			} else {
+				tagEntries.set(slug, { label, posts: [post] });
+			}
+		}
+	}
+}
+
+export const docsTags: DocTag[] = [...tagEntries.entries()]
+	.map(([slug, entry]) => ({
+		slug,
+		label: entry.label,
+		count: entry.posts.length,
+		posts: entry.posts.sort((a, b) => a.title.localeCompare(b.title))
+	}))
+	.sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
+
 const summaryByRoute = new Map(
 	summaries.map((summary) => [`${summary.section}/${summary.slug}`, summary])
 );
 
 export const getSection = (slug: string) => docsSections.find((section) => section.slug === slug);
+
+export const getTag = (slug: string) => docsTags.find((tag) => tag.slug === slug);
 
 export const getDocument = (section: string, slug: string): DocData | null => {
 	const summary = summaryByRoute.get(`${section}/${slug}`);
