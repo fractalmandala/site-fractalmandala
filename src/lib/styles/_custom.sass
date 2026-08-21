@@ -103,6 +103,34 @@
 		.docs-mobile-toc
 			display: none
 
+// FractalStyler2's lg breakpoint starts at 1024px. Keep that single-pixel
+// boundary in the mobile drawer state because the product breakpoint is <1025px.
+@media (min-width: 1024px) and (max-width: 1024px)
+	.docs[data-page-type='article']
+		grid-template-columns: 1fr
+
+		> .docs-nav
+			position: fixed
+			top: var(--header-height)
+			left: 0
+			z-index: var(--z-modal, 200)
+			width: min(85vw, 280px)
+			height: calc(100dvh - var(--header-height))
+			transform: translateX(-105%)
+
+		> .docs-backdrop
+			display: none
+
+		&[data-drawer-open='true']
+			> .docs-nav
+				transform: translateX(0)
+
+			> .docs-backdrop
+				display: block
+
+		> .docs-main
+			grid-column: 1
+
 .docs-nav-header
 	+stack(3xs)
 	margin-bottom: var(--space-s)

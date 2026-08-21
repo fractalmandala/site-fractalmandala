@@ -10,6 +10,10 @@
 	let currentDoc = $derived((page.data as { doc?: DocData }).doc);
 	let isArticle = $derived(page.data.kind === 'article');
 
+	$effect(() => {
+		if (!isArticle) closeDocsDrawer();
+	});
+
 	const toggleSection = (section: string) => {
 		openSection = openSection === section ? null : section;
 	};
