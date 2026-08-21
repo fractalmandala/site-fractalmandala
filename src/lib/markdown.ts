@@ -81,3 +81,19 @@ export const sanitizeLegacyMarkdown = {
 		};
 	}
 };
+
+/**
+ * mdsvex currently emits Svelte 4 module-script syntax for frontmatter.
+ * Normalize the generated component before Svelte 5 compiles it so every
+ * document keeps its metadata without producing a deprecation warning.
+ */
+export const modernizeMDSvexModuleScript = {
+	markup: ({ content, filename }: { content: string; filename?: string }) => {
+		if (!filename?.endsWith('.md') && !filename?.endsWith('.svx')) return;
+
+		const code = content.replaceAll('<script context="module">', '<script module>');
+		if (code === content) return;
+
+		return { code };
+	}
+};
