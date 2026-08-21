@@ -92,6 +92,7 @@
 			.replace(/>/g, '\\u003e')
 			.replace(/&/g, '\\u0026')
 	);
+	const jsonLdScriptClose = String.fromCharCode(60) + '/script>';
 </script>
 
 <svelte:head>
@@ -126,5 +127,5 @@
 	{/if}
 
 	<!-- eslint-disable-next-line svelte/no-at-html-tags -->
-	{@html `<script type="application/ld+json">${jsonLd}<\\/script>`}
+	{@html `<script type="application/ld+json">${jsonLd}${jsonLdScriptClose}`}
 </svelte:head>
