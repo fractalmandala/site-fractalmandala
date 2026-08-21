@@ -4,6 +4,12 @@
 
 @use 'fractals' as *
 
+.docs-menu-button
+	display: none
+
+	@media (max-width: 1024px)
+		display: inline-grid
+
 // Docs use a drawer below 1025px, a desktop navigation rail from 1025px, and
 // an in-flow TOC until the right rail becomes available at 1281px.
 .docs
@@ -12,6 +18,7 @@
 
 	> .docs-nav
 		display: block
+		width: 100%
 		background: var(--bg-surface)
 
 	> .docs-backdrop
@@ -114,7 +121,7 @@
 			top: var(--header-height)
 			left: 0
 			z-index: var(--z-modal, 200)
-			width: min(85vw, 280px)
+			width: 100%
 			height: calc(100dvh - var(--header-height))
 			transform: translateX(-105%)
 
