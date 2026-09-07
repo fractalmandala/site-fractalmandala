@@ -1,11 +1,12 @@
 ---
 title: Latest
-description: Index of 30 markdown documents in the Latest collection.
+description: Index of 36 markdown documents in the Latest collection.
 ---
 
-- [A Graph of Loops - Build a Full Claude Code Agent System From GitHub - One Repo Per Step](graph-of-loops.md)
 - [A Mind of Pure Samskara](a-mind-of-pure-samskara.md)
 - [Civilization in the Verb](civilization-in-the-verb.md)
+- [Endowments and Escheats](endowments-and-escheats.md)
+- [Karana](ai-agents-harness-4.md)
 - [Macaulay in the Weights](macaulay-in-the-weights.md)
 - [Mind Without a Witness](mind-without-a-witness.md)
 - [The Adhikara Problem](ai-agents-harness.md)
@@ -14,12 +15,15 @@ description: Index of 30 markdown documents in the Latest collection.
 - [The Clan on the Volga and the River in the Veda](the-clan-on-the-volga-and-the-river-in-the-veda.md)
 - [The Clearing That Cannot Be Lit](the-clearing-that-cannot-be-lit.md)
 - [The Colonization of Decolonization](the-colonization-of-decolonization.md)
-- [The Colonization of Decolonization — How the Decolonial Turn Became Another Western Universalism](the-colonization-of-decolonization-how-the-decolonial-turn-became-another-western-universalism.md)
+- [The Colonization of Decolonization: How the Decolonial Turn Became Another Western Universalism](the-colonization-of-decolonization-how-the-decolonial-turn-became-another-western-universalism.md)
 - [The Consciousness That Wasn't Lost](the-consciousness-that-wasnt-lost.md)
 - [The Country in the Itinerary](the-country-in-the-itinerary.md)
 - [The Curb and the Accelerator](technology-and-modernity-2.md)
+- [The Drain at the Bottom of the Bath](deep-history-water.md)
 - [The Explanatory Gap Is Not a Gap](explanatory-gap-is-not-a-gap.md)
 - [The Hard Problem Was Never Hard](the-hard-problem-was-never-hard.md)
+- [The Harness Is a Yantra: The Judgment You Could Never Say Out Loud](ai-agents-harness-5.md)
+- [The Harness Is a Yantra: What Restraint Costs the One Who Builds It](ai-agents-harness-3.md)
 - [The Hollow Oracle: Consciousness, Computation, and What Understanding Actually Requires](the-hollow-oracle-consciousness-computation-and-what-understanding-actually-requires.md)
 - [The Illusion Needs a Witness](the-illusion-needs-a-witness.md)
 - [The Machine That Cannot Be Haunted](consciousness-and-ai-2.md)
@@ -28,8 +32,10 @@ description: Index of 30 markdown documents in the Latest collection.
 - [The Question That AI Cannot Answer About Itself](question-ai-cannot-answer.md)
 - [The River That Remembers](the-river-that-remembers.md)
 - [The Sum That Was Never Taken](the-sum-that-was-never-taken.md)
+- [The Text With No Author](dharmic-civilization.md)
 - [The Unlit Mirror](consciousness-and-ai.md)
 - [The Weapon Without the Word](technology-and-modernity.md)
+- [The Wheel Mistaken for a Road](the-wheel-mistaken-for-a-road.md)
 - [The Witness Problem](witness-problem.md)
 - [The Wrong Question](the-wrong-question.md)
 - [The Yajamana and the Agent](ai-agents-harness-2.md)
